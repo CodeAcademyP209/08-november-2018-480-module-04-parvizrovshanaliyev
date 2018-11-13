@@ -1,0 +1,55 @@
+@import 'main/mainSection';
+
+@import 'main/welcomeSection';
+@import 'main/aboutSection';
+@import 'main/testimonialsSection';
+@import 'main/philosophySection';
+@import 'main/footerSection';
+
+
+#mainSection{
+    height: -webkit-fill-available;
+    #episode1{
+    
+    
+        .container{
+    
+            .row{
+    
+    
+                .col-md-12{
+                    
+    
+    
+                    .header{
+    
+                        margin-top:238px;
+                        p{
+                            color: white;
+                        }
+                        .zeng{
+                            color:white;
+                        }
+                        h1{
+                            font-size: 89px;
+                            color:white;
+                        }
+                        h2{
+                            color: white;
+                        }
+                   
+                   
+                    }
+    
+    
+    
+    
+                    
+                }
+            }
+    
+    
+    
+        }
+    }
+}
